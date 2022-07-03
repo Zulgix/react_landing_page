@@ -1,12 +1,4 @@
-import {
-  Backdrop,
-  Box,
-  Grid,
-  ImageList,
-  ImageListItem,
-  Modal,
-  Typography,
-} from "@mui/material";
+import { ImageList, ImageListItem, Typography } from "@mui/material";
 import React, { useState } from "react";
 import MyModal from "../Modal/MyModal";
 import { itemData } from "./data";
