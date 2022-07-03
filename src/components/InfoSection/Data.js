@@ -1,0 +1,68 @@
+export const homeObjOne = {
+    id: "about",
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: "About",
+    headLine: "About Us",
+    description: "best nail salon in the world",
+    buttonLabel: "Learn More",
+    imgStart: false,
+    img: require("../../images/svg-1.jpg"),
+    alt: "About",
+    dark: true,
+    primary: true,
+    darkText: false,
+
+}
+export const homeObjTwo = {
+    id: "services",
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: "Services",
+    headLine: "Our Services",
+    description: "best nail salon in the world",
+    buttonLabel: "Learn More",
+    imgStart: false,
+    img: require("../../images/svg-3.jpg"),
+    alt: "About",
+    dark: true,
+    primary: true,
+    darkText: false,
+
+}
+export const homeObjThree = {
+    id: "discover",
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: "discover",
+    headLine: "discover",
+    description: "Take A look at my jobs!",
+    buttonLabel: "Learn More",
+    imgStart: false,
+    img: require("../../images/svg-2.jpg"),
+    alt: "About",
+    dark: true,
+    primary: true,
+    darkText: false,
+
+}
+export const homeObjReversed = {
+    id: "discover",
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: "discover",
+    headLine: "discover",
+    description: "Take A look at my jobs!",
+    buttonLabel: "Learn More",
+    imgStart: false,
+    img: require("../../images/svg-4.jpg"),
+    alt: "About",
+    dark: true,
+    primary: true,
+    darkText: false,
+
+}
